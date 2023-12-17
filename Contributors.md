@@ -13,6 +13,7 @@
 - [Rosendo M.](https://github.com/Rosendo-Martinez)
 - [manoj](https://github.com/manoj1698)
 - [hrisabhy](https://github.com/hrisabhy)
+- [PratikHolmes] (https://github.com/PratikHolmes)
 - [Abhay](https://github.com/AbhayXcoderx123)
 - [vivienogoun](https://github.com/vivienogoun)
 - [Arya Sharma] (https://github.com/aarya626)
